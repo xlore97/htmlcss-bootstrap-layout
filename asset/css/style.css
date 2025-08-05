@@ -17,6 +17,18 @@
     background-color: #6c757d;
 }
 
+.bg-blu {
+    background-color: #007bff;
+}
+
+.bg-green {
+    background-color: #28a745;
+}
+
+.bg-red {
+    background-color: #dc3545;
+}
+
 .box {
     padding: 20px;
 }
