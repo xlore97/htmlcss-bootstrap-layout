@@ -9,6 +9,10 @@
     color: white;
 }
 
+.box {
+    padding: 20px;
+}
+
 .bg-lightgray {
     background-color: #f8f9fa;
 }
@@ -29,6 +33,14 @@
     background-color: #dc3545;
 }
 
-.box {
-    padding: 20px;
+.bg-yellow {
+    background-color: #ffc107;
+}
+
+.bg-black {
+    background-color: #212529;
+}
+
+.bg-light {
+    background-color: #f8f9fa;
 }
