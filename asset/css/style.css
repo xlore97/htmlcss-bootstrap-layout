@@ -4,3 +4,19 @@
     box-sizing: border-box;
     font-family: Montserrat, sans-serif;
 }
+
+.text-color {
+    color: white;
+}
+
+.bg-lightgray {
+    background-color: #f8f9fa;
+}
+
+.bg-darkgray {
+    background-color: #6c757d;
+}
+
+.box {
+    padding: 20px;
+}
